@@ -1,6 +1,6 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-<## CRUD in Laravel 5.4
+## CRUD in Laravel 5.4
 
 Tutorian ini dibuat untuk mengilustrasika CRUD (Create , Read, Update, Delete) menggunakan SQL dengan Laravel 5.4. 
 
